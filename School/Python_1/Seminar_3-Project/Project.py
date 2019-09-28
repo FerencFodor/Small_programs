@@ -1,12 +1,14 @@
 import turtle
 import math
 
-tr = turtle.Turtle()
-tr.hideturtle()
-tr.speed(0)
-tr.penup()
-tr.setpos(0, 100)
-tr.pendown()
+# Vykreslí kvetinku pomocou turtle grafiky
+
+tr = turtle.Turtle()    # Priradí 'korytnačku' k premennej
+tr.hideturtle()         # Ukryje 'korytnačku'
+tr.speed(0)             # Nastaví rýchlosť na najvyššiu (ak číslo je vačšie ako 0 tak 'korytnačka' pôjde ~x pixelov/s)
+tr.penup()              # Zdvihne pero, nič sa na výkres nevykreslí
+tr.setpos(0, 100)       # Nastaví pozíciu 'korytnačky'
+tr.pendown()            # Položí pero, na výkres sa odteraz sa vykresluje
 
 
 def poly(t, n, l, a):
