@@ -26,3 +26,6 @@ List of Programs:
   - [Display a Grind the Size of n * n](./Python_1/Seminar_2/program_08.py)
   - [Display the Arithmetic Sequence](./Python_1/Seminar_2/program_09.py)
   - [Display the Geometric Sequence](./Python_1/Seminar_2/program_10.py)
+
+- Seminar no.3
+  - [Project - Draw a Flower with Turtle Graphics](./Python_1/Seminar_2/program_1.py)
