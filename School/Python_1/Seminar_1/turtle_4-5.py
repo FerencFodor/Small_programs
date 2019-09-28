@@ -1,5 +1,7 @@
 import turtle
 
+#Calculates the square root of the number using turtle graphics
+
 def odmocnina(n):
 	turtle.forward(100)
 	turtle.left(90)
