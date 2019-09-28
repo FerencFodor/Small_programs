@@ -3,7 +3,7 @@
 
 These programs are mostly from seminar's and are *mostly* useless for everyday use.
 
-List of Programs:
+List of Programs *(Work In Progress)*:
 1. Python:
 - Seminar no.1
   - [Draw a Square](./Python_1/Seminar_1/turtle_1.py)
