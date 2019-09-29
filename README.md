@@ -30,4 +30,19 @@ List of Programs *(Work In Progress)*:
   - [Display the Geometric Sequence](./Python_1/Seminar_2/program_10.py)
 
 - Seminar no.3
-  - [Project - Draw a Flower with Turtle Graphics](./Python_1/Seminar_2/program_1.py)
+  - [Project - Draw a Flower with Turtle Graphics](./Python_1/Seminar_3-Project/Project.py)
+
+- Seminar no.4
+  - [Test Parity](./Python_1/Seminar_4/program_02.py)
+  - [Display the Minimum of Three Numbers](./Python_1/Seminar_4/program_03.py)
+  - [Display the Minimum of Three Numbers](./Python_1/Seminar_4/program_04.py)
+  - [Draw a Square/Triangle Using a Menu](./Python_1/Seminar_4/program_05.py)
+  - [Display the Count of Similar Numbers](./Python_1/Seminar_4/program_06.py)
+  - [**Chess:** Display If Different Coords Have the Same Color](./Python_1/Seminar_4/program_07.py)
+  - [**Chess:** Test the Rook's movement](./Python_1/Seminar_4/program_08-rook.py)
+  - [**Chess:** Test the Bishop's movement](./Python_1/Seminar_4/program_09-bishop.py)
+  - [**Chess:** Test the Knight's movement](./Python_1/Seminar_4/program_10-knight.py)
+  - [**Chess:** Test the Queen's movement](./Python_1/Seminar_4/program_11-queen.py)
+  - [**Chess:** Test the King's movement](./Python_1/Seminar_4/program_12-king.py)
+  - [Display If a number is divisible](./Python_1/Seminar_4/program_13-1.py)
+  - [Display If a number is divisible and It's Prime Numbers](./Python_1/Seminar_4/program_13-2.py)
