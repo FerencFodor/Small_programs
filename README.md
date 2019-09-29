@@ -3,6 +3,8 @@
 
 These programs are mostly from seminar's and are *mostly* useless for everyday use.
 
+***Disclaimer:*** Most of these programs have comments in **Slovak** language! There might be a few in English
+
 List of Programs *(Work In Progress)*:
 1. Python:
 - Seminar no.1
