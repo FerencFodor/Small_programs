@@ -1,22 +1,25 @@
 #define _CRT_SECURE_NO_DEPRECATE
+
 #include <stdio.h>
 
 int main() {
-	int n;
+	int n, a=1;
 
-	printf("Zadaj cele cislo <1,15>: ");
+	printf("Zadajte cele cislo <1,10>: ");
 	scanf("%d", &n);
 
-	int mid = (n - n % 2) / 2 + n % 2;
-
-	for (int i = 1; i <= n; i++) {
-		for (int j = 1; j <= n; j++)
-			if (j == mid || i == mid || i == j || j == n - i + 1)
-				putchar('*');
-			else
-				putchar('-');
-		putchar('\n');
+	if (n>= 1 && n <= 10) {
+		for (int i = 1; i <= n; i++) {
+			for (int j = 0; j < i; j++) {
+				printf("%d ", a);
+				a++;
+			}
+			putchar('\n');
+		}
 	}
-
+	else {
+		printf("zly vstup");
+	}
+	
 	return 0;
 }
